@@ -7,6 +7,4 @@ Un simple juego de Breakout implementado en JavaScript, HTML y CSS. Controla la 
 Clona este repositorio:
    ```sh
    git clone https://github.com/tu_usuario/breakout-js.git
-
-## Instalación
-
+``````
